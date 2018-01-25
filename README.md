@@ -7,6 +7,7 @@ hosted on my local machine by:
 1. Installing MongoDb
 2. In command prompt running the mongod.exe
 
-I used MongoDB Compass Community to view most of the changes that were done by the tutorial
+I used MongoDB Compass Community to view most of the changes that were done by the tutorial.
+
 I originally attempted to use my computer's name in the connection string, but that failed so I used "localhost" instead.  
 
